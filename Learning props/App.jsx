@@ -1,7 +1,7 @@
-import Content from "./contents"
+import Content from "./Card"
 export default function App() {
     return (
-    <>
+    <>  
         <Content 
         name = "One"
         age = "1"
